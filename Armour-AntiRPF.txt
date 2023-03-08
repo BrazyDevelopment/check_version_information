@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"You can now send a test ^5Discord^0 log by running the in-game command ^2/rpfwebhooktest^0. See full changelog at ^5https://discord.gg/ArmourAC"}
+{"version":"1.1.0", "notes":"^1[CRITICAL Update]^0: Please change ^2ALL^0 files including config. See full changelog at ^5https://discord.gg/ArmourAC"}
