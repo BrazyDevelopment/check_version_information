@@ -1,1 +1,1 @@
-{"version":"1.3.1", "notes":"^2Changelog: ^0Patch for QB-Core Users. ^2Fixed Framework exports. ^1Replace client and server files.^7 See full changelog at ^5https://discord.gg/Armour ^0"}
+{"version":"1.3.1", "notes":"^2Changelog: ^0Major Updates. ^2Fixed Framework exports for QB-Core and also fixed Discord logs, player kicks and more. ^1Replace client and server files and also fxmanifest entirely!!.^7 See full changelog at ^5https://discord.gg/Armour ^0"}
