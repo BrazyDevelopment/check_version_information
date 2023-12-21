@@ -1,1 +1,1 @@
-{"version":"1.4.0", "notes":"^2Changelog: ^0Major Updates. ^2Fixed Framework exports for ESX Legacy 1.8.5 and also fixed Discord logs, player kicks and more. ^1Replace ALL files and also fxmanifest and config entirely!!.^7 See full changelog at ^5https://discord.gg/Armour ^0"}
+{"version":"1.5.0", "notes":"^2Changelog: ^0Major Updates. ^2This script has now been deprecated and is redundant. Use pure mode. ^7 See full details at ^5https://discord.gg/Armour ^0"}
